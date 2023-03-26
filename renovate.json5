@@ -15,7 +15,7 @@
       "matchUpdateTypes": ["minor", "patch"]
     },
     
-    /* Grouping by updateType, plus Confidence
+    /* Grouping by updateType, plus Confidence */
     {
       "groupName": "major - high confidence",
       "matchUpdateTypes": ["major"],
@@ -26,7 +26,6 @@
       "matchUpdateTypes": ["minor", "patch"],
       "matchConfidence": ["high", "very high"],
     },
-    */
     
   ]
 }
