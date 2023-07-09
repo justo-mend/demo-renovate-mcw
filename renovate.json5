@@ -5,7 +5,6 @@
   ],
   "packageRules": [
     
-    /* Grouping with patch, minor and major */
     {
       "groupName": "major",
       "matchUpdateTypes": ["major"]
@@ -15,7 +14,6 @@
       "matchUpdateTypes": ["minor", "patch"]
     },
     
-    /* Grouping by updateType, plus Confidence */
     {
       "groupName": "major - high confidence",
       "matchUpdateTypes": ["major"],
