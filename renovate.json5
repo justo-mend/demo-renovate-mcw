@@ -3,12 +3,6 @@
   "extends": [
     "config:base"
   ],
-  "hostRules": [
-    {
-      "hostType": "merge-confidence",
-      "token": ""
-    }
-  ],
   "packageRules": [
     
     {
